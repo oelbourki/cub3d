@@ -1,5 +1,5 @@
 # cub3d
-cub3d is a project that teaches you how to use ray casting algorithms to creat a wonderfull game like Wolfenstein 3D.
+This project aims at creating a clone of Wolfenstein3D by implementing a simple raycaster with a custom graphic library.
 
 ![Cub3D Image 1](https://github.com/oelbourki/cub3d/blob/main/Cub3D.png)
 
